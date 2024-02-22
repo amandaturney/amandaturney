@@ -14,12 +14,37 @@ Hi! I'm Amanda Turney and I'm a software developer / data scientist who is drive
 
 ## Projects / Publications
 ### Quantum Computing
-- **Quantum Machine Learning**
-    - Github Repo: <a href="https://github.com/amandaturney/qml" target="_blank">https://github.com/amandaturney/qml</a>
-    - Final Paper: <a href="amandaturney.github.io/qml_final_paper.pdf" target="_blank">An Intuitive Guide to Quantum Machine Learning for the Classical Data Scientist</a>
-- <a href="">Quantum Computing Emulation in C++ with OpenMP</a>: This graduate level project emulates Shor's algorithm in an HPC environment utilizing the OpenMP library to manage qubit register states with threads. The 'omp task' pragma is used to spawn new threads whenever a Hadamard gate is encountered in 
-                    the circuit and the 'task_reduction' pragma is used at the end of the circuit to sum the probability amplitudes for each output state.
-                    Measurements are performed by randomly sampling the set of resulting states given their probability distributions.
+- **Quantum Machine Learning**: My capstone project for my MS in Data Science was an independent study on quantum machine learning. Notebooks and project work can be found in my qml repository and my final paper is listed below.
+    - GitHub Repo: <a href="https://github.com/amandaturney/qml" target="_blank">https://github.com/amandaturney/qml</a>
+    - Final Paper: <a href="./qml_final_paper.pdf">An Intuitive Guide to Quantum Machine Learning for the Classical Data Scientist</a>
+
+- **Quantum Computing Emulation in C++ with OpenMP**: This graduate level project emulates Shor's algorithm in an HPC environment utilizing the OpenMP library to manage qubit register states with threads.
+    - GitHub Repo: <a href="https://github.com/amandaturney/engr517_hpc" target="_blank">https://github.com/amandaturney/engr517_hpc</a>
+    - Final Paper: <a href="./hpc_517_paper.pdf" target="_blank">Quantum Computing in HPC</a>
+
+</br>
+</br>
+
+### Data Science
+- **Solar Spot Time Series Exploration & Prediction**: A Shiny for Python application used to explore the NOAA solar cycle dataset and make predictions and forecasts of future sunspot numbers using a CNN-LSTM model. 
+    - <a href='https://amanda-m-turney.shinyapps.io/sunspots_predict/' target='_blank'>https://amanda-m-turney.shinyapps.io/sunspots_predict/</a>
+
+- **El Nino - South Oscillation (ENSO) Exploration & Prediction**: A Shiny for Python application used to explore the ENSO related data variables (ONI, SOI, PNA, sea surface temperature anomalies, etc.) and make redictions and forecasts of future ENSO indicators using an ARIMA model and LSTM model.
+    - <a href='https://amanda-m-turney.shinyapps.io/enso-predict1/' target='_blank'>https://amanda-m-turney.shinyapps.io/enso-predict1/</a>
+
+</br>
+</br>
+
+### Scientific Computing
+- **High Density Scintillating Glass Proton Imaging Detector**: Computational physics research in a proof-of-concept design of a novel proton imaging detector utilizing Monte Carlo simulations with Geant4, a C++ toolkit for simulating particle physics developed by CERN.
+    - <a href="https://doi.org/10.1117/12.2252777">https://doi.org/10.1117/12.2252777</a>
+
+
+</br>
+
+## Other Skills & Interests
+
+
 
 <!--
 **amandaturney/amandaturney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
