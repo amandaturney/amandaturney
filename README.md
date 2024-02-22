@@ -8,6 +8,7 @@ Hi! I'm Amanda Turney and I'm a software developer / data scientist who is drive
 | <span style="padding-right:100px">- Python, R, C/C++ </br>- Poetry, Conda, Pip</br>- Docker</br>- AWS, HPC environments</br>- Git</span>  | - Automated Testing</br>- Optimization & Parallelization</br>-  Quantum Computing</br>- Statistics</br>- Machine Learning    |
 
 
+
 </br>
 
 </br>
