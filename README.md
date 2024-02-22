@@ -1,9 +1,13 @@
 # Software Dev | Data Science | Scientific Computing
-Hi! I'm Amanda Turney and I'm a software developer / data scientist who is driven to work on problems that make a difference for people and our planet. I have 8 years of experience working in climate tech and biotech, solving issues ranging from hurricane modeling to target identification and druggability for small molecules and RNA therapeutics. I love collaborating with scientists and technologists, mentoring others, and hacking away in a terminal/IDE while listening to EDM. 🎶  🌏  🧬
+Hi! I'm Amanda Turney and I'm a software developer / data scientist who is driven to work on problems that _make a difference for people and our planet_. 
+
+I have **8 years of experience** working in climate tech and biotech, solving issues ranging from hurricane modeling to target identification and druggability for small molecules and RNA therapeutics. 
+
+I love collaborating with scientists and technologists, mentoring others, and hacking away in a terminal/IDE while listening to EDM. 🌏  🎶  🧬
 
 </br>
 
-| <span style="padding-right: 30vw;">TECH STACK</span>   | ASK ME ABOUT |
+| <span style="padding-right: 30vw;">TECH STACK 💻</span>   | ASK ME ABOUT 💬|
 | -------- | ------- |
 | <span style="padding-right:100px">- Python, R, C/C++ </br>- Poetry, Conda, Pip</br>- Docker</br>- AWS, HPC environments</br>- Git</span>  | - Automated Testing</br>- Optimization & Parallelization</br>-  Quantum Computing</br>- Statistics</br>- Machine Learning    |
 
@@ -13,7 +17,7 @@ Hi! I'm Amanda Turney and I'm a software developer / data scientist who is drive
 
 </br>
 
-## Projects / Publications
+## Projects / Publications 🔭
 ### Quantum Computing
 - **Quantum Machine Learning**: My capstone project for my MS in Data Science was an independent study on quantum machine learning. Notebooks and project work can be found in my qml repository and my final paper is listed below.
     - GitHub Repo: <a href="https://github.com/amandaturney/qml" target="_blank">https://github.com/amandaturney/qml</a>
@@ -43,21 +47,10 @@ Hi! I'm Amanda Turney and I'm a software developer / data scientist who is drive
 
 </br>
 
-## Other Skills & Interests
+## Other Skills & Interests ⚡
+Other than slinging code at work, I am passionate about Diversity, Equity, and Inclusion (DEI) and have been an active leader throughout my career in this space by developing grass-roots communication campaigns for education and awareness of important topics and creating, analyzing, and communicating the results of employee DEI surveys to C-suite and company-wide audience.
 
+Outside of work, I play way too many sports to actually be good at any single one of them. The list includes tennis, doubles beach volleyball, trail running, hiking, and rock climbing. I also love traveling and eating delicious foods.
 
+My fun fact is that I have no reaction to mosquitos biting me whatsoever! It's basically a super power....
 
-<!--
-**amandaturney/amandaturney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
