@@ -17,8 +17,8 @@ I love collaborating with scientists and technologists, mentoring others, and ha
 
 </br>
 
-# Projects / Publications 🔭
-## Quantum Computing
+## Projects / Publications 🔭
+### Quantum Computing
 - Quantum Machine Learning: My capstone project for my MS in Data Science was an independent study on quantum machine learning. Notebooks and project work can be found in my qml repository and my final paper is listed below.
     - GitHub Repo: <a href="https://github.com/amandaturney/qml" target="_blank">https://github.com/amandaturney/qml</a>
     - Final Paper: <a href="./qml_final_paper.pdf">An Intuitive Guide to Quantum Machine Learning for the Classical Data Scientist</a>
@@ -30,7 +30,7 @@ I love collaborating with scientists and technologists, mentoring others, and ha
 </br>
 </br>
 
-## Data Science
+### Data Science
 - Solar Spot Time Series Exploration & Prediction: A Shiny for Python application used to explore the NOAA solar cycle dataset and make predictions and forecasts of future sunspot numbers using a CNN-LSTM model. 
     - <a href='https://amanda-m-turney.shinyapps.io/sunspots_predict/' target='_blank'>https://amanda-m-turney.shinyapps.io/sunspots_predict/</a>
 
@@ -40,7 +40,7 @@ I love collaborating with scientists and technologists, mentoring others, and ha
 </br>
 </br>
 
-## Scientific Computing
+### Scientific Computing
 - High Density Scintillating Glass Proton Imaging Detector: Computational physics research in a proof-of-concept design of a novel proton imaging detector utilizing Monte Carlo simulations with Geant4, a C++ toolkit for simulating particle physics developed by CERN.
     - <a href="https://doi.org/10.1117/12.2252777">https://doi.org/10.1117/12.2252777</a>
 
