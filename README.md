@@ -1,11 +1,19 @@
-# Amanda Turney (She/Her)
-## SOFTWARE DEV | DATA SCIENCE | SCIENTIFIC COMPUTING
+# Software Dev | Data Science | Scientific Computing
+Hi! I'm Amanda Turney and I'm a software developer / data scientist who is driven to work on problems that make a difference for people and our planet. I have 8 years of experience working in climate tech and biotech, solving issues ranging from hurricane modeling to target identification and druggability for small molecules and RNA therapeutics. I love collaborating with scientists and technologists, mentoring others, and hacking away in a terminal/IDE while listening to EDM. 🎶  🌏  🧬
+
 </br>
-<span style="font-size:large;padding-right:18px;letter-spacing:0.15em;">SOFTWARE DEV</span>
-<span style="font-size:large;padding-right:18px;letter-spacing:0.15em;">|</span>
-<span style="font-size:large;padding-right:18px;letter-spacing:0.15em;">DATA SCIENCE</span>
-<span style="font-size:large;padding-right:18px;letter-spacing:0.15em;">|</span>
-<span style="font-size:large;padding-right:18px;letter-spacing:0.15em;">SCIENTIFIC COMPUTING</span>
+
+| <span style="padding-right: 30vw;">TECH STACK</span>   | ASK ME ABOUT |
+| -------- | ------- |
+| <span style="padding-right:100px">- Python, R, C/C++ </br>- Poetry, Conda, Pip</br>- Docker</br>- AWS, HPC environments</br>- Git</span>  | - Automated Testing</br>- Optimization & Parallelization</br>-  Quantum Computing</br>- Statistics</br>- Machine Learning    |
+
+
+</br>
+
+</br>
+
+## Projects / Publications
+
 
 <!--
 **amandaturney/amandaturney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
