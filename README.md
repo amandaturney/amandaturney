@@ -1,5 +1,5 @@
-<span style="font-size:xxx-large;color:rgb(255, 60, 120);">Amanda Turney</span>
-<span style="font-size:large;color:rgb(81, 81, 81); font-weight:300">(She/Her)</span>
+# Amanda Turney (She/Her)
+## SOFTWARE DEV | DATA SCIENCE | SCIENTIFIC COMPUTING
 </br>
 <span style="font-size:large;padding-right:18px;letter-spacing:0.15em;">SOFTWARE DEV</span>
 <span style="font-size:large;padding-right:18px;letter-spacing:0.15em;">|</span>
