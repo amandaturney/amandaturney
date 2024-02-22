@@ -48,9 +48,9 @@ I love collaborating with scientists and technologists, mentoring others, and ha
 </br>
 
 ## Other Skills & Interests ⚡
-Other than slinging code at work, I am passionate about Diversity, Equity, and Inclusion (DEI) and have been an active leader throughout my career in this space by developing grass-roots communication campaigns for education and awareness of important topics and creating, analyzing, and communicating the results of employee DEI surveys to C-suite and company-wide audience.
+Other than slinging code at work, I am passionate about Diversity, Equity, and Inclusion (DEI) and have been an active leader throughout my career in this space by developing grassroot communication campaigns for education and awareness of important topics and creating, analyzing, and communicating the results of employee DEI surveys to C-suite and company-wide audiences.
 
 Outside of work, I play way too many sports to actually be good at any single one of them. The list includes tennis, doubles beach volleyball, trail running, hiking, and rock climbing. I also love traveling and eating delicious foods.
 
-My fun fact is that I have no reaction to mosquitoes biting me whatsoever! No bump, no itch, nothing. It's basically a super power....
+My fun fact is that I have no reaction to mosquitoes biting me whatsoever; no bump, no itch, nothing. It's basically a super power....
 
